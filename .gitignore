@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+.ipynb_checkpoints/
+*.log
+*.parquet
+*.csv
+.vscode/
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+*.sock

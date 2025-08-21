@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.vscode/
+.venv/
+.env
+dist/
+build/
+.git
+.gitignore
+*.parquet
+data/
